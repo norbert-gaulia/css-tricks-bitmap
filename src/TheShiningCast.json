@@ -1,0 +1,300 @@
+[
+  ["Directed by", [{ "name": "Stanley Kubrick", "credit": null }]],
+  [
+    "Writing Credits",
+    [
+      { "name": "Stephen King", "credit": "(novel)" },
+      { "name": "Stanley Kubrick", "credit": "(screenplay) &" },
+      { "name": "Diane Johnson", "credit": "(screenplay)" }
+    ]
+  ],
+  [
+    "Cast",
+    [
+      { "name": "Jack Nicholson", "role": "Jack Torrance" },
+      { "name": "Shelley Duvall", "role": "Wendy Torrance" },
+      { "name": "Danny Lloyd", "role": "Danny" },
+      { "name": "Scatman Crothers", "role": "Hallorann" },
+      { "name": "Barry Nelson", "role": "Ullman" },
+      { "name": "Philip Stone", "role": "Grady" },
+      { "name": "Joe Turkel", "role": "Lloyd" },
+      { "name": "Anne Jackson", "role": "Doctor" },
+      { "name": "Tony Burton", "role": "Durkin" },
+      { "name": "Lia Beldam", "role": "Young Woman in Bath" },
+      { "name": "Billie Gibson", "role": "Old Woman in Bath" },
+      { "name": "Barry Dennen", "role": "Watson" },
+      { "name": "David Baxt", "role": "Forest Ranger 1" },
+      { "name": "Manning Redwood", "role": "Forest Ranger 2" },
+      { "name": "Lisa Burns", "role": "Grady Daughter" },
+      { "name": "Louise Burns", "role": "Grady Daughter" },
+      { "name": "Robin Pappas", "role": "Nurse" },
+      { "name": "Alison Coleridge", "role": "Secretary" },
+      { "name": "Burnell Tucker", "role": "Policeman" },
+      { "name": "Jana Shelden", "role": "Stewardess" },
+      { "name": "Kate Phelps", "role": "Receptionist" },
+      { "name": "Norman Gay", "role": "Injured Guest" },
+      {
+        "name": "Pauline Chamberlain",
+        "role": "Woman in Black Gown"
+      },
+      { "name": "Maxwell Craig", "role": "Ballroom Dancer" },
+      { "name": "Paul Desbois", "role": "Hotel Porter" },
+      { "name": "Lynda Fisher", "role": "Ballroom lady" },
+      { "name": "Charlie Gray", "role": "Ballroom Guest" },
+      {
+        "name": "Aidan Harrington",
+        "role": "Man Sitting in Hotel Lobby"
+      },
+      { "name": "Alan Harris", "role": "Ballroom Dancer" },
+      { "name": "George Holdcroft", "role": "Ballroom Dancer" },
+      { "name": "Barrie Holland", "role": "Man in Hotel Lobby" },
+      {
+        "name": "Vivian Kubrick",
+        "role": "Smoking Guest on Ballroom"
+      },
+      { "name": "Aileen Lewis", "role": "Woman in Hotel Lobby" },
+      {
+        "name": "Bertha Lynn",
+        "role": "TV Newscaster (archive footage)"
+      },
+      { "name": "Derek Lyons", "role": "Hotel Bellhop" },
+      { "name": "Peter McNamara", "role": "Dinner Guest" },
+      { "name": "Cathy Munroe", "role": "Hotel Worker" },
+      { "name": "Chris Parsons", "role": "Dinner Guest" },
+      {
+        "name": "Glenn Rinker",
+        "role": "TV Anchorman Glenn Rinker (archive footage)"
+      },
+      {
+        "name": "Bunny Seaman",
+        "role": "Old Woman in Ballroom"
+      },
+      { "name": "Guy Standeven", "role": "Ballroom Guest" },
+      { "name": "Reg Thomason", "role": "Ballroom Guest" }
+    ]
+  ],
+  [
+    "Produced by",
+    [
+      {
+        "name": "Robert Fryer",
+        "credit": "Associate producer"
+      },
+      { "name": "Jan Harlan", "credit": "executive producer" },
+      {
+        "name": "Mary Lea Johnson",
+        "credit": "associate producer"
+      },
+      { "name": "Stanley Kubrick", "credit": "producer" },
+      {
+        "name": "Martin Richards",
+        "credit": "associate producer"
+      }
+    ]
+  ],
+  [
+    "Music by",
+    [
+      { "name": "Wendy Carlos", "credit": null },
+      { "name": "Rachel Elkind", "credit": null }
+    ]
+  ],
+  [
+    "Cinematography by",
+    [{ "name": "John Alcott", "credit": "(photographed by)" }]
+  ],
+  ["Film Editing by", [{ "name": "Ray Lovejoy", "credit": null }]],
+  ["Casting By", [{ "name": "James Liggat", "credit": null }]],
+  ["Production Design by", [{ "name": "Roy Walker", "credit": null }]],
+  [
+    "Art Direction by",
+    [{ "name": "Leslie Tomkins", "credit": "(as Les Tomkins)" }]
+  ],
+  ["Costume Design by", [{ "name": "Milena Canonero", "credit": null }]],
+  [
+    "Makeup Department",
+    [
+      { "name": "Barbara Daly", "credit": "makeup artist" },
+      { "name": "Leonard", "credit": "hair stylist" },
+      { "name": "Tom Smith", "credit": "makeup artist" }
+    ]
+  ],
+  [
+    "Production Management",
+    [
+      { "name": "Douglas Twiddy", "credit": "production manager" },
+      {
+        "name": "Paul Hitchcock",
+        "credit": "executive"
+      }
+    ]
+  ],
+  [
+    "Second Unit Director or Assistant Director",
+    [
+      {
+        "name": "Brian W. Cook",
+        "credit": "assistant director (as Brian Cook)"
+      },
+      { "name": "Terry Needham", "credit": "assistant director" },
+      { "name": "Michael Stevenson", "credit": "assistant director" }
+    ]
+  ],
+  [
+    "Art Department",
+    [
+      { "name": "Barry Arnold", "credit": "property man" },
+      { "name": "Michael Boone", "credit": "draughtsman" },
+      { "name": "Karen Brookes", "credit": "property buyer" },
+      { "name": "Dave Coldham", "credit": "plaster gang boss" },
+      { "name": "Tessa Davies", "credit": "set dresser" },
+      { "name": "John Fenner", "credit": "draughtsman" },
+      { "name": "Len Furey", "credit": "construction manager (as Len Fury)" },
+      { "name": "Fred Gunning", "credit": "head carpenter" },
+      { "name": "Peter Hancock", "credit": "property master" },
+      { "name": "Laurie Kerr", "credit": "standby carpenter" },
+      { "name": "Michael Lamont", "credit": "draughtsman" },
+      { "name": "Philip McDonald", "credit": "property man" },
+      { "name": "Edward Rodrigo", "credit": "property buyer" },
+      { "name": "Del Smith", "credit": "head painter" },
+      { "name": "Peter Spencer", "credit": "property man" },
+      { "name": "Thomas Tarry", "credit": "master plasterer (as Tom Tarry)" },
+      { "name": "Bob Walker", "credit": "decor artist (as Robert Walker)" },
+      { "name": "Barry Wilson", "credit": "drapes" },
+      { "name": "Saul Bass", "credit": "poster designer" },
+      {
+        "name": "Norman Dorme",
+        "credit": "additional art director"
+      },
+      { "name": "Vivian Kubrick", "credit": "art department" },
+      { "name": "Miguel Sá Fernandes", "credit": "set dresser" }
+    ]
+  ],
+  [
+    "Sound Department",
+    [
+      { "name": "Michael Charman", "credit": "boom operator" },
+      { "name": "Richard Daniel", "credit": "sound recordist" },
+      { "name": "Dino Di Campo", "credit": "sound editor" },
+      { "name": "Jack T. Knight", "credit": "sound editor (as Jack Knight)" },
+      { "name": "Ray Merrin", "credit": "dubbing mixer" },
+      { "name": "Bill Rowe", "credit": "dubbing mixer" },
+      { "name": "Winston Ryder", "credit": "sound editor (as Wyn Ryder)" },
+      { "name": "Ivan Sharrock", "credit": "sound recordist" },
+      { "name": "Ken Weston", "credit": "boom operator" },
+      {
+        "name": "Rodney Glenn",
+        "credit": "assistant sound editor"
+      },
+      { "name": "Robert Gravenor", "credit": "adr mixer" },
+      { "name": "Lionel Strutt", "credit": "foley mixer" }
+    ]
+  ],
+  [
+    "Special Effects by",
+    [
+      {
+        "name": "Jon Bunker",
+        "credit": "special effects technician"
+      },
+      { "name": "Les Hillman", "credit": "special effects" },
+      {
+        "name": "Malcolm Mott",
+        "credit": "special effects assistant"
+      }
+    ]
+  ],
+  ["Stunts", [{ "name": "Jack Cooper", "credit": "stunts" }]],
+  [
+    "Camera and Electrical Department",
+    [
+      { "name": "Maurice Arnold", "credit": "focus puller" },
+      { "name": "Lou Bogue", "credit": "gaffer" },
+      { "name": "Garrett Brown", "credit": "steadicam operator" },
+      { "name": "James Devis", "credit": "camera operator" },
+      { "name": "Dan Grimmel", "credit": "video operator" },
+      { "name": "Jim Kelly", "credit": "head rigger" },
+      { "name": "Martin Kenzie", "credit": "assistant camera" },
+      { "name": "Dennis Lewis", "credit": "grip" },
+      {
+        "name": "Douglas Milsome",
+        "credit": "focus puller / photographer: second unit"
+      },
+      { "name": "Kelvin Pike", "credit": "camera operator" },
+      { "name": "Peter Robinson", "credit": "assistant camera" },
+      { "name": "Danny Shelmerdine", "credit": "assistant camera" },
+      { "name": "Larry Smith", "credit": "gaffer" },
+      { "name": "Ray Andrew", "credit": "Steadicam operator" },
+      { "name": "Ted Churchill", "credit": "Steadicam operator" },
+      { "name": "John Fenner", "credit": "lighting technician" },
+      { "name": "Paul Kenward", "credit": "assistant camera" },
+      {
+        "name": "Greg MacGillivray",
+        "credit": "helicopter photographer"
+      },
+      { "name": "Jimmy Worley", "credit": "electrician" }
+    ]
+  ],
+  [
+    "Costume and Wardrobe Department",
+    [
+      { "name": "Ron Beck", "credit": "wardrobe supervisor" },
+      { "name": "Ken Lawton", "credit": "wardrobe supervisor" },
+      {
+        "name": "Veronica McAuliffe",
+        "credit": "wardrobe assistant"
+      }
+    ]
+  ],
+  [
+    "Editorial Department",
+    [
+      { "name": "Eddie Gordon", "credit": "color grader" },
+      { "name": "Steve Pickard", "credit": "second assistant editor" },
+      { "name": "Gill Smith", "credit": "assistant editor" },
+      { "name": "Gordon Stainforth", "credit": "assistant editor" },
+      { "name": "Adam Unger", "credit": "second assistant editor" },
+      { "name": "George Akers", "credit": "assistant editor" }
+    ]
+  ],
+  [
+    "Location Management",
+    [
+      { "name": "Murray Close", "credit": "location researcher" },
+      { "name": "Katharina Kubrick", "credit": "location researcher" },
+      { "name": "Jan Schlubach", "credit": "location researcher" }
+    ]
+  ],
+  [
+    "Music Department",
+    [
+      { "name": "Brian Rust", "credit": "music advisor: 20's music" },
+      { "name": "John Wadley", "credit": "music advisor: 20's music" },
+      { "name": "Jorge Calandrelli", "credit": "orchestrator" },
+      { "name": "William Lava", "credit": "composer: stock music" }
+    ]
+  ],
+  [
+    "Other crew",
+    [
+      { "name": "Margaret Adams", "credit": "secretary to producer" },
+      { "name": "Marlene Butland", "credit": "production secretary" },
+      { "name": "Emilio D'Alessandro", "credit": "production assistant" },
+      { "name": "Andros Epaminondas", "credit": "assistant to producer" },
+      { "name": "Jo Gregory", "credit": "production accountant" },
+      { "name": "Tad Michel", "credit": "hotel consultant" },
+      { "name": "Pat Pennelegion", "credit": "production secretary" },
+      { "name": "June Randall", "credit": "continuity" },
+      { "name": "Leon Vitali", "credit": "personal assistant to director" },
+      { "name": "John William Ault", "credit": "film extra" },
+      {
+        "name": "Paul Cadiou",
+        "credit": "assistant production accountant"
+      },
+      {
+        "name": "Anthony Frewin",
+        "credit": "assistant: Stanley Kubrick"
+      }
+    ]
+  ]
+]
